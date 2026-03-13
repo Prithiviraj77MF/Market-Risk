@@ -1,4 +1,4 @@
-Market Risk Modeling & Regulatory VaR Framework
+**Market Risk Modeling & Regulatory VaR Framework**
 
 Value at Risk (VaR), Conditional VaR (CVaR), Stress Testing & Backtesting
 Designed and implemented an institutional-grade Market Risk framework to quantify portfolio risk using advanced Value at Risk (VaR) and Conditional Value at Risk (CVaR) methodologies in line with Basel III / FRTB principles.
