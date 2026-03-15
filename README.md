@@ -1,10 +1,10 @@
-#**Value at Risk (VaR)**
+**Value at Risk (VaR)**
 
 VaR is a Risk management Monitoring tool to asses the expected potential loss in value of an asset or portfolio at given
 1. Specific time period
 2. Confidence level
 
-####**why VaR is calculated ?**
+###**why VaR is calculated ?**
   
   VaR is calulated to Set Trading Limits, adjust Positions and to maintain Regulatory compliance
 
@@ -26,7 +26,7 @@ VaR is a Risk management Monitoring tool to asses the expected potential loss in
 ---
 ---
 
-####**Data Collection**
+###**Data Collection**
  For this project Stock prices were derived from yahoo finance.
 
  Returns - Returns were calculated as log normal returns because normal return are not
